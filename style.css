@@ -80,4 +80,8 @@ footer{
     padding: 10px;
     transition-duration: 0.5s;
 }
+.sunshine{
+    font: bolder  15px arial;
+    color: white;
+}
 
