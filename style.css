@@ -82,6 +82,6 @@ footer{
 }
 .sunshine{
     font: bolder  15px arial;
-    color: white;
+    color: var(--cor4);
 }
 
